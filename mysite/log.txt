@@ -1,0 +1,9 @@
+2024-08-22 13:53:43,154 [INFO] shopapp.views: Rendering shop index
+2024-08-22 13:56:58,301 [INFO] django.utils.autoreload: /home/andrey/Desktop/project_django/admin/mysite/mysite/settings.py changed, reloading.
+2024-08-22 13:56:58,473 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-22 15:20:02,492 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-22 15:20:45,188 [INFO] django.utils.autoreload: /home/andrey/Desktop/project_django/admin/mysite/mysite/urls.py changed, reloading.
+2024-08-22 15:20:45,372 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-22 15:22:36,029 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
+2024-08-22 15:23:29,088 [INFO] django.utils.autoreload: /home/andrey/Desktop/project_django/admin/mysite/mysite/settings.py changed, reloading.
+2024-08-22 15:23:29,262 [INFO] django.utils.autoreload: Watching for file changes with StatReloader
